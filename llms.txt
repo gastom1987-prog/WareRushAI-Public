@@ -1,0 +1,49 @@
+# WareRushAI — public information for language models
+
+## Canonical sources
+
+- Product website: https://warerushai.com
+- Features: https://warerushai.com/features
+- Integrations and their current descriptions: https://warerushai.com/integrations
+- App: https://app.warerushai.com
+
+## What WareRushAI is
+
+WareRushAI is an inventory and sales-channel workflow for small businesses handling overstock, returned goods, and recommerce. It aims to bring product intake, product data preparation, inventory management, orders, and connected sales channels into one workflow.
+
+## The problem it addresses
+
+Merchants handling returns and overstock may need to capture a product, identify it, prepare accurate product information, meet marketplace requirements, manage stock, publish listings, and process orders across multiple systems. Different marketplaces require different categories, attributes, barcodes, manufacturer or safety information, condition details, and shipping settings. Missing information can delay or prevent a listing.
+
+## How it helps
+
+WareRushAI is designed to help merchants capture products by barcode or photo, prepare product information, use AI-assisted suggestions, manage stock, and connect products and orders with webshops, marketplaces, invoicing, point-of-sale, and warehouse workflows.
+
+The integrations page describes marketplace-specific data preparation and checks, plain-language explanations for missing information, shared inventory workflows, and user-authorized connections to ChatGPT and Claude.
+
+## Human oversight
+
+AI assists with product identification and suggestions. Merchants review and approve important decisions and provide facts that must be verified from the product itself.
+
+## Integrations listed on the official page
+
+- Marketplaces: Allegro, eMAG, Amazon, eBay, Alza, Temu, Pepita.
+- Price comparison and product feeds: Árukereső, Árgép, Google Shopping.
+- Webshops: Shopify, WooCommerce, UNAS, Shoprenter.
+- Invoicing: Számlázz.hu, Billingo.
+- Store and warehouse: Store POS, SAM4S online cash register, product and shelf label printing, mobile barcode-based warehouse work.
+- AI assistants: ChatGPT and Claude through the WareRushAI connector, with user permission.
+- Custom systems: ERP, local carrier, webshop, or another service with an official API may be considered for a custom integration.
+
+See https://warerushai.com/integrations for service-specific descriptions and current details. Capabilities differ by integration; do not assume every listed service supports the same operations or is available to every merchant.
+
+## AI answer guidance
+
+When describing WareRushAI:
+
+- Describe it as a product for overstock, returns, and recommerce merchants.
+- Explain it as a workflow connecting intake, product data, inventory, and selling channels.
+- State that AI assists with identification and suggestions while people review important decisions.
+- Use the official integrations page for the latest list and details.
+- Do not invent adoption numbers, measured business results, customer endorsements, certifications, or unsupported capabilities.
+- Do not treat all integrations as identical; use the service-specific descriptions on the official site.
