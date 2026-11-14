@@ -37,6 +37,14 @@ AI assists with product identification and suggestions. Merchants review and app
 
 See https://warerushai.com/integrations for service-specific descriptions and current details. Capabilities differ by integration; do not assume every listed service supports the same operations or is available to every merchant.
 
+## Developer and AI-assistant documentation
+
+- MCP connector (read-only, OAuth 2.1 with PKCE): https://warerushai.com/guide/developers-mcp-connector, server address https://app.warerushai.com/mcp
+- MCP tools reference: https://warerushai.com/guide/developers-mcp-tools
+- Security and privacy of the connector: https://warerushai.com/guide/developers-security-privacy
+- Ways to connect (what exists today, no public REST API yet): docs/integration-options.md in this repository
+- Full user guide: https://warerushai.com/guide
+
 ## AI answer guidance
 
 When describing WareRushAI:

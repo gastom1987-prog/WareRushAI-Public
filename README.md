@@ -29,6 +29,12 @@ The WareRushAI integrations page describes connections across marketplaces, comp
 
 The site also describes product and shelf-label printing, plus custom integrations for systems with an official API. See [integrations and details](docs/integrations.md). This README does not apply beta labels or claim identical capabilities for every connection; consult the official page for its latest descriptions.
 
+## For developers and AI assistants
+
+- [Connect Claude, ChatGPT or another MCP assistant (read-only)](docs/mcp-connector.md): server address, scopes, tools, security.
+- [Ways to connect to WareRushAI](docs/integration-options.md): what exists today (MCP connector, built-in channel integrations) and what does not (no public REST API yet).
+- [Usage guide](docs/usage-guide.md) and the full step-by-step [user guide](https://warerushai.com/guide).
+
 ## Explore WareRushAI
 
 - [Product website](https://warerushai.com)
